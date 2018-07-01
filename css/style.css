@@ -6,7 +6,7 @@
 
 body {
     font: 300 1.2em/1.6 roboto, sans-serif;
-    color: #303030;
+    color: #393030;
     text-rendering: optimizeLegibility;
     margin: 1.5em;
     -webkit-font-smoothing: antialiased;
@@ -14,7 +14,7 @@ body {
 
 nav {
     background: #294860;
-    margin: -1.5em;
+    margin: -1.3em;
     padding: 0 1.5em;
 }
 
